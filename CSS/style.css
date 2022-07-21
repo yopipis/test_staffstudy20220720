@@ -1,0 +1,19 @@
+h1 {
+    background-color: lightblue;
+}
+
+h2 {
+    /* ②ここはググってもらう */
+    color: blue;
+}
+
+section {
+    border: 2px solid gray;
+    width: 300px;
+    padding: 16px;
+}
+
+img {
+    /* ③ここはググってもらう */
+    width: 300px;
+}
